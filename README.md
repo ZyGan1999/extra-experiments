@@ -11,3 +11,6 @@ We have conducted extra experiments to analyze the mutual information (MI) and a
 
 (b) The accuracy analysis by difficulty levels. We present the relationship between the average accuracy and the length of responses at different levels. For all 5 levels, we observed that accuracy generally decreases with response length. Furthermore, the accuracy of the simplest level 1 decreases significantly when length increases, demonstrating the harm of overthinking. 
 ![analysis-by-difficulty](https://github.com/user-attachments/assets/d2bab19c-6c1f-4fae-9728-4f4ef9ec317d)
+
+## Influence of $k$
+![accuracy_comparison](https://github.com/user-attachments/assets/93c0d28f-8d68-4a6e-abb9-74ef1b04df53)
