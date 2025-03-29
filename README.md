@@ -3,8 +3,7 @@
 ## Larger LLMs
 We have conducted extra experiments on larger LLMs including Qwen2.5-14B-Instruct and Qwen2.5-32B-Instruct, with the same setting as results in Fig.2 of our main text. 
 ![larger-llms](https://github.com/user-attachments/assets/f43892ec-afa9-4ce5-b237-556e8e9fb5cb)
-[Qwen25-14B-Instruct_gsm8k.pdf](https://github.com/user-attachments/files/19521694/Qwen25-14B-Instruct_gsm8k.pdf)
-
+<img src="Qwen25-14B-Instruct_gsm8k.pdf" alt="larger-llms" width="600" />
 ## Analysis by Difficulty
 We have conducted extra experiments to analyze the mutual information (MI) and accuracy by different difficulty levels. The experiments are performed on MATH-500, where the questions are divided into 5 different difficulty levels (level 1 for the simplest, level 5 for the most difficult). The questions at the same level share similar difficulty. 
 
