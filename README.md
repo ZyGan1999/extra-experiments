@@ -12,6 +12,7 @@ We have conducted extra experiments to analyze the mutual information (MI) and a
 <img src="Analysis-by-Difficulty/analysis-by-difficulty.png" alt="analysis-by-difficulty" />
 
 ## Influence of $k$
+We have conducted extra experiments to further verify Theorem 4.6 by examining the influence of $k$. The experiments are performed on GSM8k and PrOntoQA, and we vary the value of the "max-action" of an MCTS while keeping other hyperparameters optimal, according to previous studies. The results illustrate that: (1) the reasoning correctness increases when the reasoning cost ($k$) increases; (2) for simpler PrOntoQA task where the value function is more reliable, the accuracy increases faster than GSM8k when $k$ increases. 
 <div align="center">
 <img src="Influence-of-k/influence-of-k.png" alt="influence-of-k" style="width: 50%;"/>
 </div>
